@@ -1,0 +1,14 @@
+--SELECT ProductName, CategoryID, Price vypíše urèité kategorie
+SELECT *  vypíše všechny kategorie
+FROM [Products]
+--WHERE Price>='10'; vypíše vìco obsahující cenu 10
+--WHERE Price>='10' AND Price<='20'; cena mezi 10 a 20
+--WHERE CategoryID='3' OR CategoryID='5' OR CategoryID='6'; kategorie 3, 5, 6
+--WHERE CategoryID IN ('3', '5', '6'); kategorie 3, 5, 6
+--WHERE CategoryID IN ('5', '6') AND Price>='10'; Kategorie 5 nebo 6 obsahující cenu menší než 10
+
+--WHERE (CategoryID='5' OR CategoryID='6') AND Price>='10'; Kategorie 5 nebo 6 obsahující cenu menší než 10
+--WHERE NOT CategoryID='6'; nevypíše vìco obsahující kategorii 6
+--WHERE CategoryID!='6'; Vypíše vìci obsahující kategorii 6
+--WHERE Productname LIKE '%sir%'; Obsahující slovo sir
+--WHERE Productname LIKE '____%'; Slovo na 4 písmena
