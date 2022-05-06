@@ -1,0 +1,14 @@
+Skladba (syntax)
+- zabývá se tvořením vět a jejich strukturou
+- výpověď - základní forma komunikace, která je pronesená a nebo napsaná, nejčastěji forma věty
+- věta - základní forma výpovědi
+- věta se zkládá ze slov, musí dávat smysl
+- základem každé věty je přísudek
+- jákýkoliv větný člen může být holý nebo rozvitý nebo několikanásobný
+- přísudek
+    - predikát
+    - vyjadřuje osoba, zvíře, věc které jsou ve větě podmětem dělají/dělali/budou dělat
+    - nezávislý
+    - s podmětem tvoří základní skladebnou dvojci
+    - shodují se v rodě a čísle
+    - slovesný (jednoduchý, složený), jmenný a jmenný se sponou(skládá se z podst. jména a spony = určitý tvar slovesa být)

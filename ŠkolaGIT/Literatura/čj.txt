@@ -1,0 +1,22 @@
+jméno a adresa žadatele
+
+jméno a adresa adresáta
+
+
+místo a datum v prvním pádě bez čárky
+
+nadpis
+
+
+oslovení
+
+text - o co se žádá, proc žádám, vysvětlení situace
+
+poděkování, rozloučení a podpis
+
+vše spisovná čeština, necitově zabarvený, neutrální
+
+vzor:
+
+
+

@@ -1,0 +1,37 @@
+n - y
+a - y
+a - y
+n - x
+0
+
+d - y
+1
+
+b - x
+0 
+
+b - 
+1
+
+n - y
+n - y
+a - y
+a - y
+1
+
+f - y
+c - y
+e - y
+b - y
+1
+
+desetiletí - y
+vyhlášených - y
+
+
+b,a,d,c,e
+1
+
+
+10 - a
+1
