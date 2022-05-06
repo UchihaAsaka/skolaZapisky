@@ -1,35 +1,40 @@
-Ekonomika podstata fungování ekonomiky - základní pojmy: potøeba - pocit nedostatku, který si èlovìk uvìdomuje a snaží se je odstranit ekonomika - makro ekonomie -zabývá se hospodáøstvím jako celkem národohospodáøské velièiny: inflace, nezamìstnanost, platební bilance, hrubý domácí produkt.. . inflace - znehodnocování mìny mikro ekonomie - zabývá se ekonomickým chováním jednotlivých subjektù - v souèasné dobì u nás - tržní ekonomika - zjednodušenì lze øíci, že tržní ekonomika je založena na tom: - každý èlovìk má urèité potøeby - tyto potøeby se snaží výrobci a prodejci uspokojit - podnikatele tak èiní za úèelem dosažení zisku kde funguje konkurence trh - støedává nabídka s poptávkou
-Potøeba je pocit nedostatku a èlovìk se snaží jej odstranit. Každý èlovìk mùže mít jiné potøeby.  Záleží na: podstatì èlovìka (pohlaví, vìk, fyzické a psychické založení), záleží na vyspìlosti ekonomiky, úrovni vzdìlání v celém státì, na životním prostøedí, odvíjí se od výše pøijmu, 
-Potøeby rostou a vyvíjí (jsou neomezené), rostou s vìkem a s vìdeckotechnickým pokrokem.
-Základní dìlení potøeb: Fyzické (jíst, pít, vyluèovat, cvièit…) a duševní, individuální a kolektivní (sporty), hlavní (vyvolávají vedlejší potøeby) a vedlejší, 
-Potøeby uspokojujeme statky a službami, 
-Èlenìní statkù: Volné (nemusejí se vyrábìt, nacházejí se v pøírodì)
-		Ekonomické (Musí se vyrobit èinností èlovìka)
-		Spotøební (Urèeny k okamžité spotøebì)
-		Kapitálové (Slouží k produkci ostatních statkù)
-		Hmotné (Klíèe…)
-		Nehmotné (PC program, Hudba…)
-Proces kdy vznikají statky: hospodáøský -Výroba, Rozdìlování, Smìna a Potøeba
-Služby: Osobní 
-	Vìcné
-K výrobì statkù je potøeba výrobník faktorù
-Výrobní faktory:
-	1.Pùda, Nerostné bohatství
-	2.Práce-cílevìdomá lidská èinnost 
-	3.Kapitál-Stroje, materiál, výrobní hala, 
+Ekonomika podstata fungovï¿½nï¿½ ekonomiky - zï¿½kladnï¿½ pojmy: potï¿½eba - pocit nedostatku, kterï¿½ si ï¿½lovï¿½k uvï¿½domuje a snaï¿½ï¿½ se je odstranit ekonomika - makro ekonomie -zabï¿½vï¿½ se hospodï¿½ï¿½stvï¿½m jako celkem nï¿½rodohospodï¿½ï¿½skï¿½ veliï¿½iny: inflace, nezamï¿½stnanost, platebnï¿½ bilance, hrubï¿½ domï¿½cï¿½ produkt.. . inflace - znehodnocovï¿½nï¿½ mï¿½ny mikro ekonomie - zabï¿½vï¿½ se ekonomickï¿½m chovï¿½nï¿½m jednotlivï¿½ch subjektï¿½ - v souï¿½asnï¿½ dobï¿½ u nï¿½s - trï¿½nï¿½ ekonomika - zjednoduï¿½enï¿½ lze ï¿½ï¿½ci, ï¿½e trï¿½nï¿½ ekonomika je zaloï¿½ena na tom: - kaï¿½dï¿½ ï¿½lovï¿½k mï¿½ urï¿½itï¿½ potï¿½eby - tyto potï¿½eby se snaï¿½ï¿½ vï¿½robci a prodejci uspokojit - podnikatele tak ï¿½inï¿½ za ï¿½ï¿½elem dosaï¿½enï¿½ zisku kde funguje konkurence trh - stï¿½edï¿½vï¿½ nabï¿½dka sï¿½poptï¿½vkou
+Potï¿½eba je pocit nedostatku a ï¿½lovï¿½k se snaï¿½ï¿½ jej odstranit. Kaï¿½dï¿½ ï¿½lovï¿½k mï¿½ï¿½e mï¿½t jinï¿½ potï¿½eby.  Zï¿½leï¿½ï¿½ na: podstatï¿½ ï¿½lovï¿½ka (pohlavï¿½, vï¿½k, fyzickï¿½ a psychickï¿½ zaloï¿½enï¿½), zï¿½leï¿½ï¿½ na vyspï¿½losti ekonomiky, ï¿½rovni vzdï¿½lï¿½nï¿½ vï¿½celï¿½m stï¿½tï¿½, na ï¿½ivotnï¿½m prostï¿½edï¿½, odvï¿½jï¿½ se od vï¿½ï¿½e pï¿½ijmu, 
+Potï¿½eby rostou a vyvï¿½jï¿½ (jsou neomezenï¿½), rostou sï¿½vï¿½kem a sï¿½vï¿½deckotechnickï¿½m pokrokem.
+Zï¿½kladnï¿½ dï¿½lenï¿½ potï¿½eb: Fyzickï¿½ (jï¿½st, pï¿½t, vyluï¿½ovat, cviï¿½itï¿½) a duï¿½evnï¿½, individuï¿½lnï¿½ a kolektivnï¿½ (sporty), hlavnï¿½ (vyvolï¿½vajï¿½ vedlejï¿½ï¿½ potï¿½eby) a vedlejï¿½ï¿½, 
+Potï¿½eby uspokojujeme statky a sluï¿½bami, 
+ï¿½lenï¿½nï¿½ statkï¿½: Volnï¿½ (nemusejï¿½ se vyrï¿½bï¿½t, nachï¿½zejï¿½ se vï¿½pï¿½ï¿½rodï¿½)
+		Ekonomickï¿½ (Musï¿½ se vyrobit ï¿½innostï¿½ ï¿½lovï¿½ka)
+		Spotï¿½ebnï¿½ (Urï¿½eny kï¿½okamï¿½itï¿½ spotï¿½ebï¿½)
+		Kapitï¿½lovï¿½ (Slouï¿½ï¿½ kï¿½produkci ostatnï¿½ch statkï¿½)
+		Hmotnï¿½ (Klï¿½ï¿½eï¿½)
+		Nehmotnï¿½ (PC program, Hudbaï¿½)
+Proces kdy vznikajï¿½ statky: hospodï¿½ï¿½skï¿½ -Vï¿½roba, Rozdï¿½lovï¿½nï¿½, Smï¿½na a Potï¿½eba
+Sluï¿½by: Osobnï¿½ 
+	Vï¿½cnï¿½
+Kï¿½vï¿½robï¿½ statkï¿½ je potï¿½eba vï¿½robnï¿½k faktorï¿½
+Vï¿½robnï¿½ faktory:
+	1.Pï¿½da, Nerostnï¿½ bohatstvï¿½
+	2.Prï¿½ce-cï¿½levï¿½domï¿½ lidskï¿½ ï¿½innost 
+	3.Kapitï¿½l-Stroje, materiï¿½l, vï¿½robnï¿½ hala, 
 	4.Inforamce
 
-Nikdo není schopen si vyrobit všechny statky co potøebuje. 
-Úroveò životních podmínek: 
+Nikdo nenï¿½ schopen si vyrobit vï¿½echny statky co potï¿½ebuje. 
+ï¿½roveï¿½ ï¿½ivotnï¿½ch podmï¿½nek: 
 
 
-Trh: Místo kde se potkává kupující a prodávající 
-Více trhù: Trh statkù a služeb 
-	Trh výrobník faktorù 
-	Penìžní trh 
-Subjekt trhu: Domácnosti, firmy a stát
-Poptávka: Ukazuje kolik statkù a služeb bude spotøebitel chtít a kolik zaplatí
-Èím vyšší je cena služeb tím menší je poptávka
+Trh: Mï¿½sto kde se potkï¿½vï¿½ kupujï¿½cï¿½ a prodï¿½vajï¿½cï¿½ 
+Vï¿½ce trhï¿½: Trh statkï¿½ a sluï¿½eb 
+	Trh vï¿½robnï¿½k faktorï¿½ 
+	Penï¿½nï¿½ trh 
+Subjekt trhu: Domï¿½cnosti, firmy a stï¿½t
+Poptï¿½vka: Ukazuje kolik statkï¿½ a sluï¿½eb bude spotï¿½ebitel chtï¿½t a kolik zaplatï¿½
+ï¿½ï¿½m vyï¿½ï¿½ï¿½ je cena sluï¿½eb tï¿½m menï¿½ï¿½ je poptï¿½vka
+
+
+
+test idk 
+
 
 	
 	
